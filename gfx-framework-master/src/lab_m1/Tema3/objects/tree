@@ -1,0 +1,4 @@
+components.push_back(Component3("box", vec3(1, 1, 1), vec3(0.00423019, 1.36539, -0.0035467), vec3(0, 0, 0), vec3(1, 2.6973, 1), "wood"));
+components.push_back(Component3("cone", vec3(1, 1, 1), vec3(0.00423019, 4.04965, -0.0354803), vec3(0, 0, 0), vec3(1.8639, 1.34891, 2.31433), "leaves"));
+components.push_back(Component3("cone", vec3(1, 1, 1), vec3(-0.0868578, 5.7281, -0.0187438), vec3(0, 0, 0), vec3(1.24475, 1.34891, 1.24927), "leaves"));
+components.push_back(Component3("cone", vec3(1, 1, 1), vec3(-0.0868578, 4.98149, -0.0187438), vec3(0, 0, 0), vec3(1.44283, 1.34891, 1.63347), "leaves"));

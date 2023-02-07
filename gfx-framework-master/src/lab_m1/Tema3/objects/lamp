@@ -1,0 +1,4 @@
+components.push_back(Component3("box", vec3(1, 1, 1), vec3(-0.0021408, 1.76672, -0.0299062), vec3(0, 0, 0), vec3(0.332382, 3.5826, 0.350489), "iron"));
+components.push_back(Component3("box", vec3(1, 1, 1), vec3(-0.0021408, 3.65422, -0.0326844), vec3(0, 0, 0), vec3(3.0796, 0.196385, 0.868545), "iron"));
+components.push_back(Component3("square", vec3(0.4, 0.4, 0.4), vec3(1.19685, 3.53808, -0.0165129), vec3(-91.8964, 0, 0), vec3(0.530432, 0.574586, 0.566385), "grey"));
+components.push_back(Component3("square", vec3(0.4, 0.4, 0.4), vec3(-1.18346, 3.53808, -0.0182042), vec3(-91.8964, 0, 0), vec3(0.537767, 0.574586, 0.566385), "grey"));

@@ -1,0 +1,4 @@
+components.push_back(Component3("sphere", vec3(1, 1, 1), vec3(-0.467034, 0, 0), vec3(0, 0, 0), vec3(1.04927, 0.61417, 1.34875), "stone"));
+components.push_back(Component3("sphere", vec3(1, 1, 1), vec3(0.269176, 0, -0.398526), vec3(0, 0, 0), vec3(1.10334, 0.903631, 1.36699), "stone"));
+components.push_back(Component3("sphere", vec3(1, 1, 1), vec3(0.153277, -0.0196596, 0.382983), vec3(0, 0, 0), vec3(0.551177, 0.421924, 0.568705), "stone"));
+components.push_back(Component3("sphere", vec3(1, 1, 1), vec3(-0.00431675, 0.280522, 0.182981), vec3(0, 0, 0), vec3(0.551177, 0.421924, 0.568705), "stone"));
